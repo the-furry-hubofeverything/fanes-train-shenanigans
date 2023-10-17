@@ -1,0 +1,13 @@
+name = "Nemo's Transit Expansion"
+filename = "MTR-NTE-0.4.1+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pXSjgW8/versions/pLOLAVw4/MTR-NTE-0.4.1%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "49ac7385b036a1854fbf6779a6e694e260560b9f"
+
+[update]
+[update.modrinth]
+mod-id = "8pXSjgW8"
+version = "pLOLAVw4"

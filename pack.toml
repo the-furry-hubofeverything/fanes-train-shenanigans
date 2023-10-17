@@ -1,0 +1,13 @@
+name = "Fane's Train Shenanigans"
+author = "Hubble"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6d0c3e3276cf03b8f7d9956b39f26f772b98bc8260f3955b2d3a4509c35ad6f4"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.19.4"
