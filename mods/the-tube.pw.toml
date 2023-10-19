@@ -1,13 +1,13 @@
 name = "The Tube"
-filename = "MTR-LU-Addon-forge-1.19.4-3.2.0-1.11.jar"
+filename = "MTR-LU-Addon-fabric-1.19.4-3.2.0-1.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c2ad619ef2c1243bac76fcfb302cebb6c9b73eb9"
+hash = "fab1026f4c8edc12b5d8db456e7b875e5e6ae4e1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4503096
+file-id = 4503095
 project-id = 545686
