@@ -35,6 +35,11 @@ hash = "ff8a60510a0b74d5bab2acd2f57fe2c7144886195eae3b2446b341409db675ac"
 metafile = true
 
 [[files]]
+file = "mods/the-tube.pw.toml"
+hash = "47285a1fa5fc2ed893908afa0de2afd555563f8a67adda822331f230151ebdcd"
+metafile = true
+
+[[files]]
 file = "mods/time-wind.pw.toml"
 hash = "1d5e234837f3a624aea181144f88cdb99ce4ca4ac50761ff7c62870cd333d83a"
 metafile = true
