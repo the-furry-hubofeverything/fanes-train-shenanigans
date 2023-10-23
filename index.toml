@@ -39,3 +39,8 @@ metafile = true
 file = "mods/time-wind.pw.toml"
 hash = "1d5e234837f3a624aea181144f88cdb99ce4ca4ac50761ff7c62870cd333d83a"
 metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "768d27fe50b429d4389308f127df522c7eaf6c31d9cebb1aad06ba554b23e27f"
+metafile = true
