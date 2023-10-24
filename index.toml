@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "9958fb387df596f96a5b6b0a12f3def77dd75d9ae3781709b6510744fd98db98"
-metafile = true
-
-[[files]]
 file = "mods/jcm.pw.toml"
 hash = "385590390867eeccae3533f852794d2abe0b19f928ef30a88765ea4c4cb7c0b3"
 metafile = true
