@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "385590390867eeccae3533f852794d2abe0b19f928ef30a88765ea4c4cb7c0b3"
+hash = "b2faab2b3426929637cb12484991ca1cd1c6a0548d5e9003d4480f3d48284121"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"
-hash = "4114b6b8e08c91b8c6da887658189d2ee761526d378923a49b38352879507b1e"
+hash = "0f7b2be9bb6873f85ff56ec837ad301477ce42ed08c1267e53e580df4c83f0d8"
 metafile = true
 
 [[files]]

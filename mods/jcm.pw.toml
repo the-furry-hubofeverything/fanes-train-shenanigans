@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/vNgjnax7/Joban-Client-Mod-1.19.4-1.2.2.jar"
 hash-format = "sha1"
-hash = "0b36719d89d92ec76c9c017b5da1bb8fc934bd2d"
+hash = "4a6388611e6b67566275b5db655242cd6da5cd43"
 
 [update]
 [update.modrinth]
